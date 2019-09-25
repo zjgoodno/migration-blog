@@ -14,16 +14,20 @@
 <body>
   <header>
     <div class="banner">
-
+      <nav class="main-nav">
+        <% for (var i in theme.menu) {%>
+        <a class="main-nav-link" href="<%- url_for(theme.menu[i]) %>"><%= i %></a>
+        <% } %>
+      </nav>
       <div class="container">
         <h1>Pam and Glen's Migration</h1>
       </div>
     </div>
   </header>
+  <section>
+    <%- body %>
+  </section>
 
-  <br>
-  <%- body %>
-  <br>
 
   <footer>
     THIS IS THE FOOTER

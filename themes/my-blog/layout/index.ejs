@@ -1,3 +1,5 @@
 <div>
-  this is the index.ejs file
+  <% page.posts.each(function(post) { %>
+    <%- page.content %>
+    <% }) %>
 </div>
