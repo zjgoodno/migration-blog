@@ -8,6 +8,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Pam and Glen's Migration</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <script src="https://kit.fontawesome.com/5f942a93c0.js" crossorigin="anonymous"></script>
 
   <%- css('css/style') %>
 </head>
@@ -18,15 +19,18 @@
         <% for (var i in theme.menu) {%>
         <a class="main-nav-link" href="<%- url_for(theme.menu[i]) %>"><%= i %></a>
         <% } %>
+        <div class="social-links">
+          <i class="fab fa-instagram main-nav-link"></i>
+        </div>
       </nav>
       <div class="container">
         <h1>Pam and Glen's Migration</h1>
       </div>
     </div>
   </header>
-  <section>
+  <div>
     <%- body %>
-  </section>
+  </div>
 
 
   <footer>
