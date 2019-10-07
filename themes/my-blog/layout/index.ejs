@@ -1,5 +1,12 @@
-<div>
-  <% page.posts.each(function(post) { %>
-    <%- page.content %>
-    <% }) %>
+<% page.posts.each(function(post) { %>
+<div class="container">
+  <div class="post">
+    <header class="post-title">
+      <%- post.title %>
+    </header>
+    <div class="post-content">
+      <%- post.content %>
+    </div>
+  </div>
 </div>
+<%})%>
