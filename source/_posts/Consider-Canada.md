@@ -1,11 +1,12 @@
 ---
 title: Consider Canada
-date: 2019-09-18 10:56:00
-location: On the Trans Canadian Railway
+date: 2019-09-13 10:56:00
+location: Somewhere On the Trans Canadian Railway
 tags:
     - Trains
     - Bikes
 comments: true
+day: 13
 ---
 
 Our train arrived in Vancouver in the early morn. After one last breakfast on the train, we said good-bye to our new friends, Michele and John, and started  noodling around Vancouver fully loaded (with gear that is). I (Glen) can’t believe how heavy it is. Of course, no one is requiring me to carry all this stuff. In any event, it is a beautiful city. Had delicious coffee and pastry in front of curious dogs and then biked around the city perimeter on miles and miles of bike trails.  The weather did not disappoint our expectations:  it has alternated between sun, clouds, rain and drizzle. Generally in the mid-60s (including the two of us). First day biking was about 22 miles. Instead of heading directly to the Adventure Cycling Association Pacific Coast Trail, we diverted to Vancouver Island.
