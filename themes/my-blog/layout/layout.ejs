@@ -9,6 +9,7 @@
   <title>Pam and Glen's Migration</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <script src="https://kit.fontawesome.com/5f942a93c0.js" crossorigin="anonymous"></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v1.3.2/mapbox-gl.css' rel='stylesheet' />
 
   <%- css('css/style') %>
 </head>
@@ -20,7 +21,7 @@
         <a class="main-nav-link" href="<%- url_for(theme.menu[i]) %>"><%= i %></a>
         <% } %>
         <div class="social-links">
-          <i class="fab fa-instagram main-nav-link"></i>
+          <a href="https://www.instagram.com/pamandglenbicyclejourney/"><i class="fab fa-instagram main-nav-link"></i></a>
         </div>
       </nav>
       <div class="container">

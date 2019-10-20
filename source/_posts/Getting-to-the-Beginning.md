@@ -1,7 +1,9 @@
 ---
 title: Getting to the Beginning
-date: 2019-09-18 10:52:50
+date: 2019-09-09 10:52:50
 tags:
+location: Toronto
+day: 9
 ---
 We drove to Montreal to meet our friends Jeff and Abbey who had agreed to take our car back to Vermont with them while we gallivant around for the next nine months.  We had a great time biking around the city and eating delicious food.  Boarding a train to Toronto, an all day affair, we had our first taste of Canadian train travel.  It was wonderful.  Just relax and look out the window.  Don’t think of the pain that is coming.
 
